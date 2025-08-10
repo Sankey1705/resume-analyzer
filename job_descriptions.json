@@ -1,0 +1,123 @@
+[
+    {
+        "title": "Python Developer",
+        "skills_required": [
+            "Python",
+            "Django",
+            "Flask",
+            "REST API",
+            "SQL",
+            "Machine Learning"
+        ],
+        "job_summary": "We are looking for a Python Developer to build web applications, develop REST APIs, and work with SQL databases. Experience with machine learning is a plus."
+    },
+    {
+        "title": "Data Scientist",
+        "skills_required": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "Scikit-learn",
+            "TensorFlow",
+            "SQL",
+            "Data Visualization"
+        ],
+        "job_summary": "Seeking a Data Scientist to analyze large datasets, build predictive models, and generate insights to support decision-making."
+    },
+    {
+        "title": "Backend Developer",
+        "skills_required": [
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "REST API",
+            "Docker",
+            "AWS"
+        ],
+        "job_summary": "We need a Backend Developer to design and maintain server-side logic, integrate with databases, and ensure high performance."
+    },
+    {
+        "title": "Frontend Developer",
+        "skills_required": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Redux",
+            "Responsive Design"
+        ],
+        "job_summary": "Hiring a Frontend Developer to create visually appealing and user-friendly web applications."
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "skills_required": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "Scikit-learn",
+            "SQL",
+            "Data Preprocessing"
+        ],
+        "job_summary": "We are looking for a Machine Learning Engineer to design, build, and deploy ML models in production environments."
+    },
+    {
+        "title": "Data Engineer",
+        "skills_required": [
+            "Python",
+            "SQL",
+            "ETL",
+            "Apache Spark",
+            "AWS",
+            "Data Warehousing"
+        ],
+        "job_summary": "Seeking a Data Engineer to build and maintain data pipelines, optimize ETL processes, and manage cloud-based data warehouses."
+    },
+    {
+        "title": "DevOps Engineer",
+        "skills_required": [
+            "AWS",
+            "Docker",
+            "Kubernetes",
+            "Terraform",
+            "CI/CD",
+            "Linux"
+        ],
+        "job_summary": "Looking for a DevOps Engineer to manage infrastructure, automate deployments, and ensure high system availability."
+    },
+    {
+        "title": "Mobile App Developer",
+        "skills_required": [
+            "Java",
+            "Kotlin",
+            "Android SDK",
+            "REST API",
+            "Firebase",
+            "UI/UX Design"
+        ],
+        "job_summary": "We are hiring a Mobile App Developer to create and maintain Android applications, ensuring high performance and great user experience."
+    },
+    {
+        "title": "Web Developer",
+        "skills_required": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PHP",
+            "MySQL",
+            "Bootstrap"
+        ],
+        "job_summary": "Looking for a Web Developer to design and develop dynamic websites and web applications."
+    },
+    {
+        "title": "Full Stack Developer",
+        "skills_required": [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "AWS"
+        ],
+        "job_summary": "Hiring a Full Stack Developer to work on both frontend and backend systems, integrating APIs and cloud services."
+    }
+]
